@@ -23,19 +23,18 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm learning a fullstack student studying with freeCodeCamp and Microsoft. I enjoy creating unique and simplistic software solutions in creative ways.";
-
+const description = 
+"Driven to unlock creative solutions for the full-stack. My passion lies in crafting innovative software that doesn't just work, it wows. I thrive on finding unconventional approaches, as seen in projects like [Hygieora] (reduced [redundant code] by [20%]) and [LHydra] (achieved a 15% increase in traffic). Always up for a challenge, I'm constantly seeking new ways to apply my skills and dive into emerging technologies. Let's collaborate and build something exceptional together!";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design and Development",
-  "User experience ",
-  "Data Analysis with Python",
-  "Database management and Administration",
-  "Machine Leaning",
+  "Web design and Development (HTML, CSS, JavaScript, React, Next js,Flask, Blazor etc.)",
+  "User Interface and experience (Figma) ",
+  "Data Analysis (Excel, Python, SQL)",
+  "Database management and Administration (SQL, MongoDB, Firebase, SQL Server, etc.)",
+  "Machine Leaning (Python, TensorFlow, PyTorch, etc.)",
   "Prompt engineering",
 ];
 
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my  experience as a fullStack developer I continually look for new and better ways to make tech accessible by all.";
+"Nothing is impossible, the word itself says 'I'm possible!' - Audrey Hepburn. This quote embodies my approach to software development. I believe in the power of ingenuity and a never-give-up attitude to turn seemingly impossible ideas into reality.";
 
 const About = () => {
   return (

@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Adroit Bureau Internship Page 2022",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a landing page for the Adroit Bureau Internship 2022. This page was created using HTML, CSS, and JavaScript.",
+    url: "https://jnopareboateng.github.io/Adroit-Bureau/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hygieora",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A web app that connects people to mental health experts. I redundant code by 20%. This project was built using Next js.",
+    url: "https://hygieiora.vercel.app/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/jnopareboateng/portfolio-page",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "LHydra",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Successfully developed a cuisine recommender system to test integration of an onnx model into a next js application",
+    url: "",
   },
 ];
 
