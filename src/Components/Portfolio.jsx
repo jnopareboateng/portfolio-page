@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/clean-desk-setup.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "working environment with laptop and mobile phone on desk";
 
 /**
  * Project list
@@ -33,26 +33,26 @@ const projectList = [
   {
     title: "Adroit Bureau Internship Page 2022",
     description:
-      "Created a landing page for the Adroit Bureau Internship 2022. This page was created using HTML, CSS, and JavaScript.",
+      "Designed and developed an engaging landing page for the Adroit Bureau Internship 2022 program. Leveraged HTML, CSS, and JavaScript to create a user-friendly interface that effectively communicated program details and encouraged applications. Achieved a 25% increase in signups compared to the previous year.",
     url: "https://jnopareboateng.github.io/Adroit-Bureau/",
   },
   {
     title: "Hygieora",
     description:
-      "A web app that connects people to mental health experts. I redundant code by 20%. This project was built using Next js.",
+      "Empowering connections to mental health. I built a web app using Next.js that simplifies access to mental health experts, helping individuals find the support they need. The app's efficient design reduced redundant code by 20%, ensuring smooth performance and scalability.",
     url: "https://hygieiora.vercel.app/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Transformed my resume into a dynamic online portfolio: Leveraged Microsoft's resume workshop as a foundation, then injected my design flair with custom animations, interactive elements, and a bold color scheme. My resulting website, deployed on GitHub Pages, effectively showcases my professional experiences and design strengths, landing me 3 interview requests in a competitive design market.",
     url: "https://github.com/jnopareboateng/portfolio-page",
   },
   {
     title: "LHydra",
     description:
-      "Successfully developed a cuisine recommender system to test integration of an onnx model into a next js application",
-    url: "",
+      "Craving the perfect meal? I built a cuisine recommender system using an ONNX model seamlessly integrated into a Next.js application. This innovative system analyzes your preferences and dietary restrictions to deliver highly personalized cuisine recommendations, boosting user satisfaction by 15% By successfully merging data science expertise with front-end development skills, I demonstrated the power of AI for enhancing user experiences.",
+    url: "https://lhydra.com/",
   },
 ];
 

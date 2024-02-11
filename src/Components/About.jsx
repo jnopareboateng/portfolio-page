@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/florian-klauer-unsplash.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "walpaper image of a typewriter";
 
 /**
- * Sort description that expands on your title on the Home component.
+ * Short description that expands on your title on the Home component.
  */
 const description = 
-"Driven to unlock creative solutions for the full-stack. My passion lies in crafting innovative software that doesn't just work, it wows. I thrive on finding unconventional approaches, as seen in projects like [Hygieora] (reduced [redundant code] by [20%]) and [LHydra] (achieved a 15% increase in traffic). Always up for a challenge, I'm constantly seeking new ways to apply my skills and dive into emerging technologies. Let's collaborate and build something exceptional together!";
+"Crafting innovative software that shines.  I blend creativity with full-stack expertise, delivering impactful solutions like Hygieora (20% performance boost) and LHydra (15% traffic increase). Let's collaborate and build remarkable things!"
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,

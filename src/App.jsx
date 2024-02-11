@@ -25,14 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Joshua Ntow Opare-Boateng",
-  title: "Full Stack Developer || Machine Learning Engineer",
+  title: "Full Stack Developer ",
   email: "jnopareboateng@outlook.com",
   gitHub: "jnopareboateng",
   instagram: "1realjoshua",
-  linkedIn: "jnopareboateng",
-  medium: "",
-  twitter: "",
-  youTube: "",
+  linkedIn: "jnopareboateng"
 };
 
 const primaryColor = "#4E567E";
