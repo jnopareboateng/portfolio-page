@@ -9,8 +9,6 @@
  */
 import React from "react";
 import PropTypes from "prop-types";
-
-
 import envelopeIcon from "../images/socials/envelope.svg";
 import gitHubIcon from "../images/socials/github.svg";
 import instagramIcon from "../images/socials/instagram.svg";
@@ -76,7 +74,7 @@ const Footer = (props) => {
         )}
       </div>
       <p className="small" style={{ marginTop: 0, color: "white" }}>
-        Created by {name}
+        &copy; {name}
       </p>
     </div>
   );

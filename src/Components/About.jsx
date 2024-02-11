@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -23,8 +23,8 @@ const imageAltText = "walpaper image of a typewriter";
 /**
  * Short description that expands on your title on the Home component.
  */
-const description = 
-"Crafting innovative software that shines.  I blend creativity with full-stack expertise, delivering impactful solutions like Hygieora (20% performance boost) and LHydra (15% traffic increase). Let's collaborate and build remarkable things!"
+const description =
+  "Crafting innovative software that shines.  I blend creativity with full-stack expertise, delivering impactful solutions like Hygieora (20% performance boost) and LHydra (15% traffic increase). Let's collaborate and build remarkable things!";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-"Nothing is impossible, the word itself says 'I'm possible!' - Audrey Hepburn. This quote embodies my approach to software development. I believe in the power of ingenuity and a never-give-up attitude to turn seemingly impossible ideas into reality.";
+  "Nothing is impossible, the word itself says 'I'm possible!' - Audrey Hepburn. This quote embodies my approach to software development. I believe in the power of ingenuity and a never-give-up attitude to turn seemingly impossible ideas into reality.";
 
 const About = () => {
   return (
