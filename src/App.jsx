@@ -11,7 +11,7 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
-
+import Education from "./Components/Education";
 import "./styles.css";
 
 /**
@@ -29,7 +29,7 @@ const siteProps = {
   email: "jnopareboateng@outlook.com",
   gitHub: "jnopareboateng",
   instagram: "1realjoshua",
-  linkedIn: "jnopareboateng"
+  linkedIn: "jnopareboateng",
 };
 
 const primaryColor = "#4E567E";
@@ -41,6 +41,7 @@ const App = () => {
       <Header />
       <Home name={siteProps.name} title={siteProps.title} />
       <About />
+      <Education />
       <Portfolio />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
